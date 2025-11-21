@@ -2,7 +2,7 @@
 import React from "react";
 // eslint-disable-next-line no-unused-vars
 import { motion } from "framer-motion";
-import { LampContainer } from "../ui/lamp";
+import { LampContainer } from "./lamp";
 import { FaFacebook, FaGithub, FaLinkedin } from "react-icons/fa";
 import { Link } from "react-router-dom";
 
