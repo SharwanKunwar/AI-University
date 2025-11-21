@@ -4,7 +4,7 @@ import React from "react";
 import { motion } from "framer-motion";
 import { cn } from "@/lib/utils";
 
-export function Lamp() {
+export default function Lamp() {
   return (
     <LampContainer>
       <motion.h1
